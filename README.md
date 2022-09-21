@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Daniel%20&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=6DB33F&height=150&section=header&text=Daniel%20Kim%20|%20BE&fontSize=90" />
 </p>
 
 <div align="center">
