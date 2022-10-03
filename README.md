@@ -5,7 +5,7 @@
 
 <div align="center">
     <h1 align="center">Dohyoung Kim</h1>
-    <h3><b>Back-End Developer</b></h3></br>
+    <h3><b>Web Developer</b></h3></br>
     <h1>Contact</h1>
     <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"ufo9363@gmail.com">
